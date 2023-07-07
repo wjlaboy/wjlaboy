@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wjlaboy
-- 👀 I’m interested in JavaScript and automated testing.
+- 👀 I’m interested in JavaScript and test automation.
 - 🌱 I’m currently learning advanced React concepts, data structures, and algorithms.
 - 📫 How to reach me ...
 
