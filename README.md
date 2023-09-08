@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @wjlaboy
-- 👀 I’m interested in JavaScript and test automation.
+- 👋 Hi, I’m Wilson J. Laboy.
+- 👀 I’m interested in front-end web development and test automation.
 - 🌱 I’m currently learning advanced React concepts, data structures, and algorithms.
