@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Wilson J. Laboy.
-- 👀 I’m interested in front-end web development and test automation.
-- 🌱 I’m currently learning advanced React concepts, data structures, and algorithms.
+- 👋 Hi, I am Wilson Laboy.
+- 👀 I am interested in web development and test automation.
+- 🌱 I’m currently learning data structures & algorithms, and Golang.
