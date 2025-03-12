@@ -1,3 +1,3 @@
 - 👋 Hi, I am Wilson Laboy.
-- 👀 I am interested in web development and app development
-- 🌱 I’m currently learning data structures & algorithms, and mobile development.
+- 👀 I am interested in web development.
+- 🌱 I’m currently learning Java and Spring Boot web development.
